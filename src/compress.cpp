@@ -69,7 +69,7 @@ int get_ideal_width(string fname, string dest){
             r = m - 1;
         }
     }
-    return m;
+    return l;
 }
 
 
