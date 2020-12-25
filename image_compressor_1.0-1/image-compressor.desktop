@@ -1,0 +1,9 @@
+  Version=1.0
+  Type=Application
+  Terminal=False
+  Name=Editor
+  Exec=/usr/bin/Editor %F
+  Comment=Text Editor
+  StartupNotify=false
+  Encoding=UTF-8
+  Categories=TextEditor;WordProcessor;Development;GTK;GNOME;
