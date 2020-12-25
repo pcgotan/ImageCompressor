@@ -1,0 +1,12 @@
+Package: image-compressor
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: libgtk-3-0
+Maintainer: Listed below
+ Prashant Chouhan <pcgotan1998@gmail.com>
+ Sarthak Singhal <singhalsarthak2007@gmail.com>
+Description: Compress given image.
+ Compresses given image targetting given width, height or size of the output image.
+ 
