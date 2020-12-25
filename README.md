@@ -1,3 +1,3 @@
 # Image Compressor
 ## Demo
-![image](https://user-images.githubusercontent.com/45638058/103139951-f4108a80-4707-11eb-9212-285d65596230.png)
+![Temp](https://user-images.githubusercontent.com/45638058/103140204-f542b700-4709-11eb-9d4b-63376db3929f.gif)
